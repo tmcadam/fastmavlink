@@ -1,0 +1,16 @@
+{
+    "name": "fastmavlink",
+    "keywords": "fastmavlink",
+    "description": "TWI for ATTiny chips",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/tmcadam/fastmavlink.git"
+    },
+    "license": "GNU General Public License v3.0",
+    "frameworks": "*",
+    "platforms": "*",
+    "build": {
+        "srcDir": "c_library/"
+    }
+  }
